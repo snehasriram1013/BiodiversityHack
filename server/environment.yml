@@ -1,0 +1,11 @@
+name: CivicTest
+dependencies:
+  - python
+  - pip
+  - pip:
+    - fastapi
+    - uvicorn
+    - httpx
+    - google-generativeai
+    - pandas
+    - pygbif

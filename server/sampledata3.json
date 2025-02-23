@@ -1,0 +1,94 @@
+{
+    "genuses": [
+        {
+            "name": "Carex",
+            "occurenceTotalGenus": 5,
+            "subgenena": [
+                {
+                    "name": "Carex arctata",
+                    "occurrences": 14,
+                    "imgUrl": "http://data.huh.harvard.edu/168d4329-1133-4a0e-b6d3-28133db6526f/image",
+                    "description": "Carex arctata, also known as loose-flowered sedge, is a perennial herb native to North America, inhabiting wet meadows, marshes, and stream banks.  Historically, Indigenous peoples used various Carex species, including possibly *C. arctata*, for weaving mats, baskets, and other crafts due to the strong fibers in their leaves.  This sedge is characterized by its loosely arranged, drooping inflorescences (flower clusters) with distinct, elongated spikes, typically light brown or greenish-brown in color.  Its leaves are relatively narrow and flat, growing to heights of 30-90 cm, contributing to its overall graceful, slightly arching form.\n"
+                },
+                {
+                    "name": "Carex communis",
+                    "occurrences": 76,
+                    "imgUrl": "http://data.huh.harvard.edu/6b398504-75a9-42a2-ae9c-fed0d0249408/image",
+                    "description": "Carex communis, commonly known as common sedge, is a perennial herbaceous plant in the Cyperaceae family, characterized by its tufted growth habit,  narrow,  grass-like leaves, and inconspicuous flowers borne in spikelets.  Historically,  common sedge has been used for thatching roofs, weaving mats, and as a bedding material due to its fibrous nature and abundance.  It thrives in a variety of habitats, from damp meadows and wetlands to drier grasslands, exhibiting a wide ecological tolerance.  Its inconspicuous flowers contribute little to its historical or contemporary uses, with its structural strength being the key feature of its practical applications.\n"
+                },
+                {
+                    "name": "Carex stricta",
+                    "occurrences": 14,
+                    "imgUrl": "http://data.huh.harvard.edu/9ce50706-b5dd-4296-802b-e8b47d1bd41e/image",
+                    "description": "Carex stricta, commonly known as the stiff sedge, is a perennial grass-like plant belonging to the sedge family (Cyperaceae).  Historically used for weaving mats and chair seats by Native Americans, its stiff, erect culms (stems) and narrow leaves, growing up to 1.5 meters tall, are key identifying features.  It thrives in wet to moist soils, typically found in marshes, swamps, and along the edges of streams and lakes, preferring full sun to partial shade.  Its inconspicuous flowers are borne in spikelets arranged in a terminal inflorescence.  Carex stricta plays a significant role in wetland ecosystems providing habitat for wildlife and contributing to erosion control.\n"
+                },
+                {
+                    "name": "Carex cryptolepis",
+                    "occurrences": 11,
+                    "imgUrl": "http://data.huh.harvard.edu/9899a092-8f0b-40d1-8fc1-d72a17e4e165/image",
+                    "description": "Carex cryptolepis, also known as the hidden-spiked sedge, is a perennial grass-like plant in the Cyperaceae family, characterized by its slender, tufted growth habit and inconspicuous spikelets hidden within the foliage.  Historically,  indigenous peoples have utilized various Carex species, including this one likely, for weaving mats and baskets due to their strong, flexible stems.  Carex cryptolepis prefers moist to wet soils and is often found in shaded, wooded areas or along stream banks, exhibiting a relatively low-growing profile compared to other sedges. Its small, brown to greenish flowers are largely unassuming and contribute little to its ornamental value.\n"
+                },
+                {
+                    "name": "Carex tenera",
+                    "occurrences": 49,
+                    "imgUrl": "http://data.huh.harvard.edu/cd0a9e99-4c66-41b2-ba65-16b852da1bbf/image",
+                    "description": "Carex tenera, also known as slender sedge, is a low-growing, clump-forming perennial sedge native to Europe and Asia.  Historically used for thatching and weaving mats in some regions due to its flexible leaves,  it features fine, bright green, thread-like leaves that grow to approximately 30cm in height, creating a delicate, airy texture.  It prefers moist to wet soils and thrives in shady or partially shaded locations, often found along streams and in woodland areas.  Its inconspicuous flowers are borne on slender stalks, followed by small, brown seed heads.\n"
+                }
+            ]
+        },
+        {
+            "name": "Solidago",
+            "occurenceTotalGenus": 3,
+            "subgenena": [
+                {
+                    "name": "Solidago nemoralis",
+                    "occurrences": 94,
+                    "imgUrl": "http://data.huh.harvard.edu/09b6436f-bb9b-462e-8f65-9d8414680c6c/image",
+                    "description": "Solidago nemoralis, commonly known as gray goldenrod, is a perennial herbaceous plant native to North America, characterized by its grayish-green, hairy leaves and numerous small, yellow flower heads arranged in a somewhat flat-topped cluster.  Historically, Native Americans used various Solidago species, including S. nemoralis, for medicinal purposes, employing it as a diuretic and to treat wounds and other ailments.  Gray goldenrod prefers dry, open habitats and is easily distinguished by its relatively short stature and the dense, greyish hair covering its stems and leaves compared to other goldenrods.\n"
+                },
+                {
+                    "name": "Solidago gigantea",
+                    "occurrences": 10,
+                    "imgUrl": "http://data.huh.harvard.edu/0e47027a-728f-41b2-9d66-90aa1d54c663/image",
+                    "description": "Solidago gigantea, also known as giant goldenrod, is a tall perennial native to eastern North America, typically reaching heights of 3 to 8 feet.  Characterized by its lance-shaped leaves lacking hairs on the underside, and numerous small, yellow flower heads clustered in branching panicles, it blooms from late summer into fall. Historically, Native Americans used various parts of giant goldenrod for medicinal purposes, including treating wounds and respiratory ailments.  While its medicinal use is less common today, it remains a valuable native plant for supporting pollinators and providing erosion control, and is often cultivated for its ornamental value in gardens and landscaping.\n"
+                },
+                {
+                    "name": "Solidago patula",
+                    "occurrences": 85,
+                    "imgUrl": "http://data.huh.harvard.edu/1446989a-8025-449b-8fae-1b762a43a67c/image",
+                    "description": "*Solidago patula*, also known as rough-leaved goldenrod, is a herbaceous perennial native to eastern North America.  Characterized by its rough, hairy leaves and relatively small, numerous yellow flower heads arranged in a somewhat flat-topped inflorescence, it typically grows in moist to dry woods and meadows. Historically, Native Americans used various *Solidago* species, likely including *S. patula*, for medicinal purposes, applying them to wounds and treating various ailments due to their purported astringent and anti-inflammatory properties.  While not widely cultivated today, it remains a valuable component of native plant communities, providing nectar for pollinators.\n"
+                }
+            ]
+        },
+        {
+            "name": "Symphyotrichum",
+            "occurenceTotalGenus": 4,
+            "subgenena": [
+                {
+                    "name": "Symphyotrichum ericoides",
+                    "occurrences": 31,
+                    "imgUrl": "http://data.huh.harvard.edu/350b79bd-705c-4004-9c64-f6724ca4c075/image",
+                    "description": "Symphyotrichum ericoides, commonly known as heath aster, is a North American perennial flowering plant in the daisy family.  Historically used by Native Americans for medicinal purposes, particularly as a treatment for wounds and respiratory ailments, it's characterized by its numerous small, white or lavender daisy-like flowers blooming in dense clusters atop numerous slender, branching stems.  Its leaves are small, linear, and needle-like, giving it a heath-like appearance, hence the common name.  The plant is relatively low-growing, typically reaching heights of 1 to 3 feet, and thrives in dry, sunny conditions.\n"
+                },
+                {
+                    "name": "Symphyotrichum lateriflorum",
+                    "occurrences": 44,
+                    "imgUrl": "http://data.huh.harvard.edu/351825e3-e75c-4348-911f-371ab875e1d5/image",
+                    "description": "Symphyotrichum lateriflorum, commonly known as calico aster or starflower, is a North American native perennial aster belonging to the sunflower family.  Historically used by Native Americans for medicinal purposes, particularly for treating wounds and skin ailments, this plant features slender stems bearing numerous small, pale lavender to white flowers arranged in a somewhat one-sided raceme.  Its leaves are lance-shaped and grow alternately along the stem, and it typically thrives in moist to wet soils, often found in meadows, woods, and along stream banks, blooming from late summer to fall.\n"
+                },
+                {
+                    "name": "Symphyotrichum novi-belgii",
+                    "occurrences": 43,
+                    "imgUrl": "http://data.huh.harvard.edu/359d5d71-3a75-498d-a112-56e8d097d0e5/image",
+                    "description": "*Symphyotrichum novi-belgii*, also known as New York aster, is a perennial flowering plant native to eastern North America, boasting a multitude of small, daisy-like flowers in shades of purple, blue, pink, or white, blooming from late summer to fall. Historically used by Native Americans for medicinal purposes, including treating wounds and respiratory ailments, this aster is valued today primarily as an ornamental plant for gardens and landscaping, appreciated for its late-season color and ability to attract pollinators.  Its features include numerous branching stems, lance-shaped leaves, and dense flower clusters.\n"
+                },
+                {
+                    "name": "Symphyotrichum puniceum",
+                    "occurrences": 30,
+                    "imgUrl": "http://data.huh.harvard.edu/421a1a65-c3b3-4b9c-815b-5d82a0c37703/image",
+                    "description": "Symphyotrichum puniceum, commonly known as swamp aster, is a North American perennial aster with a history of use by Indigenous peoples for medicinal purposes, particularly for treating wounds and skin ailments.  This aster features lance-shaped, sharply toothed leaves and numerous small, pinkish-purple to reddish-purple flower heads arranged in branching clusters atop sturdy stems.  It thrives in wet, marshy habitats, and its blooming period typically occurs in late summer and fall, providing a vibrant display in damp meadows and along the edges of waterways.\n"
+                }
+            ]
+        }
+    ]
+}
