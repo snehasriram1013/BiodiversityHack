@@ -1,0 +1,18 @@
+html, body {
+    background-color: green;
+    height: 100%; /* Make sure the body takes up the full height */
+    margin: 0; /* Remove default margin */
+   
+}
+
+.heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Vertically centers the content */
+    align-items: center; /* Horizontally centers the content */
+    height: 100vh; /* Makes sure the div takes up the full viewport height */
+}
+
+button {
+
+}
