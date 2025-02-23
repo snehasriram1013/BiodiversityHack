@@ -1,0 +1,64 @@
+{
+    "genuses": [
+        {
+            "name": "Tortula",
+            "occurenceTotalGenus": 96,
+            "subgenena": [
+                {
+                    "name": "Tortula muralis",
+                    "occurrences": 96,
+                    "distribution": "Denmark"
+                }
+            ]
+        },
+        {
+            "name": "Rubus",
+            "occurenceTotalGenus": 112,
+            "subgenena": [
+                {
+                    "name": "Rubus fruticosus",
+                    "occurrences": 84,
+                    "distribution": "Australia"
+                },
+                {
+                    "name": "Rubus anglocandicans",
+                    "occurrences": 28,
+                    "distribution": "Australia"
+                }
+            ]
+        },
+        {
+            "name": "Convolvulus",
+            "occurenceTotalGenus": 89,
+            "subgenena": [
+                {
+                    "name": "Convolvulus angustissimus",
+                    "occurrences": 89,
+                    "distribution": "Australia"
+                }
+            ]
+        },
+        {
+            "name": "Phragmites",
+            "occurenceTotalGenus": 57,
+            "subgenena": [
+                {
+                    "name": "Phragmites australis",
+                    "occurrences": 57,
+                    "distribution": "Denmark"
+                }
+            ]
+        },
+        {
+            "name": "Pentanema",
+            "occurenceTotalGenus": 13,
+            "subgenena": [
+                {
+                    "name": "Pentanema salicinum",
+                    "occurrences": 13,
+                    "distribution": "Denmark"
+                }
+            ]
+        }
+    ]
+}
